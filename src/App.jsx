@@ -1,4 +1,5 @@
 import React from 'react';
+import CryptoBook from './Components/Pages/CryptoBook';
 
-const App = () => <h1>Hello Friend</h1>;
+const App = () => <CryptoBook />;
 export default App;
